@@ -3,6 +3,11 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "author": {
+    "name": "vijay",
+    "email": "vijay@coffeeinc.in",
+    "url": "https://www.coffeeinc.in/"
+  },
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
